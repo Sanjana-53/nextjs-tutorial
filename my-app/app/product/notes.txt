@@ -1,0 +1,20 @@
+/product/1011
+/product/102
+
+product -> [id] -> page.js
+
+slug - routes 
+react -> Categories -> routing- next.js
+blog/react/next.js/nextjs-routing
+
+blog -> [category] -> [slug] -> page.js
+
+why needed slug:
+/blog/react/use-state
+/blog/react/use-effect
+/blog/react/array-list
+/blog/react/express-js
+
+
+slug routes:
+use-state/page.js 
