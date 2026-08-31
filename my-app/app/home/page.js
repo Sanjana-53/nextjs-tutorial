@@ -1,8 +1,10 @@
+import AddToCart from "./AddtoCart"
 export default function Products(){
     return(
         <div>
             <h1>Products</h1>
             <p>laptop:23456u7i7</p>
+            <p>Product is: </p>
             <button>Add to cart</button>
         </div>
     )
