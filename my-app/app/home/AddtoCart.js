@@ -19,7 +19,8 @@ export default function Student(){
     }
     return(
         <div>
-
+            <h1>Students</h1>
+            
         </div>
     )
 }
